@@ -1,0 +1,8 @@
+.container{
+    max-width: 500px !important;
+    width: 100%;
+}
+.error{
+    border: 1px solid red;
+}
+
