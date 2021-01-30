@@ -1,0 +1,1 @@
+Versao 1 do projeto de temperatura
