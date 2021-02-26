@@ -8,9 +8,7 @@
   <sub>Procurando pelo repositório do aplicativo web? Acesse <a href="https://github.com/Lorenalgm/DevChallenge">aqui</a>!</sub>
   <br>
 </div>
-[![Forks][forks-shield]][forks-url]
-[![Stargazers][stars-shield]][stars-url]
-[![Issues][issues-shield]][issues-url]
+
 ## Tabela de conteúdos
 - [Sobre](#sobre)
 - [Feito com](#feito-com)
